@@ -13,7 +13,9 @@ Repo organisation:
 - **scTranscriptomics** folder: code relevant for the analysis of single cell transcriptomics data for Naive, US-mem and S-mem B cells (steady state, Smart-seq2 platform) and single cell transcriptomics data for activated PBMCs (10X platform)
 
 
-General lingo: ```M``` in the beginning of a notebook name is for **M**ain analysis, ```S``` - for **S**ubanalysis, numbers indicate the order of analyses.
+General lingo: 
+- ```M``` in the beginning of a notebook name is for **M**ain analysis, ```S``` - for **S**ubanalysis, numbers indicate the order of analyses
+- SS2 is for Smart-seq2
 
 
 
