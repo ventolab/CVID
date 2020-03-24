@@ -18,4 +18,7 @@ General lingo:
 - SS2 is for Smart-seq2
 
 
+For figures with dotplots (and statistical significance) please download ```.pdf```s to view at correct scale.
+
+
 
