@@ -2,7 +2,7 @@
 A Single-Cell Atlas of Common Variable Immunodeficiency (CVID)
 
 
-This is a repository with key analyses from "A Single-Cell Atlas of Common Variable Immunodeficiency".
+This is a repository with key analyses from the ["Single-Cell Atlas of Common Variable Immunodeficiency"](https://www.cvidcellatlas.org/).
 
 Repo organisation:
 
