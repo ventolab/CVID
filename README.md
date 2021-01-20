@@ -10,7 +10,9 @@ Repo organisation:
 
 - **scChromAccess** folder: code relevant for the analysis of single cell ATAC-sequencing data for Naive, US-mem and S-mem B cells
 
-- **scTranscriptomics** folder: code relevant for the analysis of single cell transcriptomics data for Naive, US-mem and S-mem B cells (steady state, Smart-seq2 platform) and single cell transcriptomics data for activated PBMCs (10X platform)
+- **scTranscriptomics_CITE** folder: code relevant for the analysis of CITE-seq data for activated PBMCs (10X platform)
+
+- **202003_initial_analysis_scTranscriptomics** folder: code relevant for the analysis of single cell transcriptomics data for Naive, US-mem and S-mem B cells (steady state, Smart-seq2 platform) and single cell transcriptomics data for activated PBMCs (10X platform)
 
 
 General lingo: 
