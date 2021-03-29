@@ -1,0 +1,99 @@
+﻿Hormone_uniprot,Hormone_symbol,Hormone_Location,Hormone_name,Hormone_receptor,Hormone_receptor_symbol,Hormone_Nreceptors,cellphoneDB
+Q9BQD1,PMCHL2,N/A,Melanin-concentrating hormone-like,Q99705,MCHR1,2,none
+Q9BQD1,PMCHL2,N/A,Melanin-concentrating hormone-like,Q969V1,MCHR2,2,none
+P01178,OXT,Secreted,Oxytocin,P30559,OXTR,1,none
+P81277,PRLH,Secreted protein,Prolactin-releasing peptide PrRP31,P49683,PRLHR,1,none
+P81277,PRLH,Secreted protein,Prolactin-releasing peptide PrRP20,P49683,PRLHR,1,none
+Q16048,PMCHL1,N/A,Melanin-concentrating hormone-like,Q99705,MCHR1,2,none
+Q16048,PMCHL1,N/A,Melanin-concentrating hormone-like,Q969V1,MCHR2,2,none
+Q6X4W1,NSMF,Cell membrane; peripheral membrane protein (By similarity),Nasal embryonic luteinizing hormone-releasing hormone factor,P30968,GNRHR,1,none
+Q8WXF3,RLN3,Secreted,Relaxin-3 B chain,Q9NSD7,RXFP3,4,none
+Q8WXF3,RLN3,Secreted,Relaxin-3 B chain,Q8TDU9,RXFP4,4,none
+Q8WXF3,RLN3,Secreted,Relaxin-3 B chain,Q9HBX9,RXFP1,4,none
+Q8WXF3,RLN3,Secreted,Relaxin-3 B chain,Q8WXD0,RXFP2,4,none
+Q8WXF3,RLN3,Secreted,Relaxin-3 A chain,Q9NSD7,RXFP3,4,none
+Q8WXF3,RLN3,Secreted,Relaxin-3 A chain,Q8TDU9,RXFP4,4,none
+Q8WXF3,RLN3,Secreted,Relaxin-3 A chain,Q9HBX9,RXFP1,4,none
+Q8WXF3,RLN3,Secreted,Relaxin-3 A chain,Q8WXD0,RXFP2,4,none
+Q96T91,GPHA2,Secreted protein,Glycoprotein hormone alpha-2,P16473,TSHR,1,none
+Q9UBU3,GHRL,Secreted protein,Ghrelin-28,Q02643,GHRHR,1,none
+Q9UBU3,GHRL,Secreted protein,Ghrelin-27,Q02643,GHRHR,1,none
+Q9UBU3,GHRL,Secreted protein,Obestatin,Q02643,GHRHR,1,none
+P06307,CCK,Secreted,Cholecystokinin-12,P32239,CCKBR,2,none
+P06307,CCK,Secreted,Cholecystokinin-12,P32238,CCKAR,2,none
+O43555,GNRH2,Secreted protein,Gonadoliberin-2,P30968,GNRHR,2,none
+O43555,GNRH2,Secreted protein,Gonadoliberin-2,Q96P88,GNRHR2,2,none
+P01148,GNRH1,Secreted protein,Gonadoliberin-1,P30968,GNRHR,1,none
+P01189,POMC,N/A,Melanotropin gamma (Gamma-MSH),Q01726,MC1R,1,none
+P01189,POMC,N/A,Corticotropin,Q01726,MC1R,1,none
+P01189,POMC,N/A,Melanotropin alpha (Alpha-MSH),Q01726,MC1R,1,none
+P01189,POMC,N/A,Lipotropin beta (Beta-LPH),Q01726,MC1R,1,none
+P01189,POMC,N/A,Lipotropin gamma (Gamma-LPH),Q01726,MC1R,1,none
+P01189,POMC,N/A,Melanotropin beta      (Beta-MSH),Q01726,MC1R,1,none
+P01189,POMC,N/A,Beta-endorphin,Q01726,MC1R,1,none
+P01189,POMC,N/A,Met-enkephalin,Q01726,MC1R,1,none
+P01215,CGA,Secreted,Glycoprotein hormones alpha chain,P23945,FSHR,3,none
+P01215,CGA,Secreted,Glycoprotein hormones alpha chain,P22888,LHCGR,3,none
+P01215,CGA,Secreted,Glycoprotein hormones alpha chain,P16473,TSHR,3,none
+P01222,TSHB,Secreted protein,Thyroid-stimulating hormone subunit beta (TSH-B) (Thyrotropin beta chain),P16473,TSHR,1,none
+P01225,FSHB,Secreted,Follicle-stimulating hormone beta subunit,P23945,FSHR,1,none
+P01229,LHB,Secreted protein,Luteinizing hormone subunit beta (LSH-B) (LH-B)(Lutropin subunit beta),P22888,LHCGR,1,none
+P01236,PRL,Secreted,Prolactin,P16471,PRLR,1,none
+P01241,GH1,Secreted protein,Growth hormone (Somatotropin) (GH),P10912,GHR,1,none
+P01258,CALCA,Secreted,Calcitonin,P30988,CALCR,1,none
+P01258,CALCA,Secreted,Katacalcin,P30988,CALCR,1,none
+P01270,PTH,Secreted protein,Parathyroid hormone (Parathyrin) (PTH),Q03431,PTH1R,1,none
+P01275,GCG,Secreted,Glicentin,P47871,GCGR,1,none
+P01275,GCG,Secreted,Oxyntomodulin,P47871,GCGR,1,none
+P01275,GCG,Secreted,Glucagon,P47871,GCGR,1,none
+P01275,GCG,Secreted,Glucagon-like peptide 1,P47871,GCGR,1,none
+P01275,GCG,Secreted,Glucagon-like peptide 2,P47871,GCGR,1,none
+P01286,GHRH,Secreted protein,Growth hormone-releasing factor (GRF) (Growth hormone-releasing hormone) (GHRH),Q02643,GHRHR,1,none
+P01308,INS,Secreted,Insulin B chain,P06213,INSR,1,CPI-SS0BE88A4E2
+P01308,INS,Secreted,Insulin A chain,P06213,INSR,1,CPI-SS0BE88A4E2
+P01350,GAST,Secreted,Gastrin-71,P32239,CCKBR,1,none
+P01350,GAST,Secreted,Gastrin-52,P32239,CCKBR,1,none
+P01350,GAST,Secreted,Big gastrin,P32239,CCKBR,1,none
+P01350,GAST,Secreted,Gastrin,P32239,CCKBR,1,none
+P01350,GAST,Secreted,Gastrin-14,P32239,CCKBR,1,none
+P01350,GAST,Secreted,Gastrin-6,P32239,CCKBR,1,none
+P03971,AMH,Secreted protein,Muellerian-inhibiting factor,Q16671,AMHR2,1,none
+P04090,RLN2,Secreted,Relaxin B chain,Q9HBX9,RXFP1,2,none
+P04090,RLN2,Secreted,Relaxin B chain,Q8WXD0,RXFP2,2,none
+P04090,RLN2,Secreted,Relaxin A chain,Q9HBX9,RXFP1,2,none
+P04090,RLN2,Secreted,Relaxin A chain,Q8WXD0,RXFP2,2,none
+P04808,RLN1,Secreted,Relaxin B chain,Q9HBX9,RXFP1,2,none
+P04808,RLN1,Secreted,Relaxin B chain,Q8WXD0,RXFP2,2,none
+P04808,RLN1,Secreted,Relaxin A chain,Q9HBX9,RXFP1,2,none
+P04808,RLN1,Secreted,Relaxin A chain,Q8WXD0,RXFP2,2,none
+P06307,CCK,Secreted,Cholecystokinin,P32239,CCKBR,2,none
+P06307,CCK,Secreted,Cholecystokinin,P32238,CCKAR,2,none
+P06307,CCK,Secreted,Cholecystokinin-58,P32239,CCKBR,2,none
+P06307,CCK,Secreted,Cholecystokinin-58,P32238,CCKAR,2,none
+P06307,CCK,Secreted,Cholecystokinin-39,P32239,CCKBR,2,none
+P06307,CCK,Secreted,Cholecystokinin-39,P32238,CCKAR,2,none
+P06307,CCK,Secreted,Cholecystokinin-33,P32239,CCKBR,2,none
+P06307,CCK,Secreted,Cholecystokinin-33,P32238,CCKAR,2,none
+P06307,CCK,Secreted,Cholecystokinin-8,P32239,CCKBR,2,none
+P06307,CCK,Secreted,Cholecystokinin-8,P32238,CCKAR,2,none
+P06850,CRH,Secreted protein,Corticoliberin,P34998,CRHR1,2,none
+P06850,CRH,Secreted protein,Corticoliberin,Q13324,CRHR2,2,none
+P07492,GRP,Secreted,Gastrin-releasing peptide,P30550,GRPR,1,none
+P07492,GRP,Secreted,Neuromedin-C,P30550,GRPR,1,none
+P09683,SCT,Secreted,Secretin,P47872,SCTR,1,none
+P20382,PMCH,Secreted protein,Neuropeptide-glutamic acid-isoleucine,Q99705,MCHR1,2,none
+P20382,PMCH,Secreted protein,Neuropeptide-glutamic acid-isoleucine,Q969V1,MCHR2,2,none
+P20382,PMCH,Secreted protein,Melanin-concentrating hormone,Q99705,MCHR1,2,none
+P20382,PMCH,Secreted protein,Melanin-concentrating hormone,Q969V1,MCHR2,2,none
+P20396,TRH,Secreted protein,Thyroliberin,P34981,TRHR,1,none
+P61278,SST,Secreted,Somatostatin-28,P30872,SSTR1,4,none
+P61278,SST,Secreted,Somatostatin-28,P30874,SSTR2,4,none
+P61278,SST,Secreted,Somatostatin-28,P32745,SSTR3,4,none
+P61278,SST,Secreted,Somatostatin-28,P35346,SSTR5,4,none
+P61278,SST,Secreted,Somatostatin-14,P30872,SSTR1,4,none
+P61278,SST,Secreted,Somatostatin-14,P30874,SSTR2,4,none
+P61278,SST,Secreted,Somatostatin-14,P32745,SSTR3,4,none
+P61278,SST,Secreted,Somatostatin-14,P35346,SSTR5,4,none
+Q86YW7,GPHB5,Secreted protein,Glycoprotein hormone beta-5,P16473,TSHR,1,none
+P41159,LEP,Secreted,Leptin,P48357,LEPR,1,CPI-SS066FE05CA
+P00797,REN,Secreted,Renin,O75787,ATP6AP2,1,none

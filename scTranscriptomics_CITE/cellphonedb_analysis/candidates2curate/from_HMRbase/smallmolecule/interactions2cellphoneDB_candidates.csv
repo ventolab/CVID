@@ -1,0 +1,218 @@
+﻿Hormone_name,Hormone_PubChemID,Hormone_ChEmbl,Hormone_ChEBI,Hormone_HMDB,Hormone_Nreceptors,Hormone_receptors,Hormone_receptors_symbol,Hormone_synonym
+"2,3-bis(3'-hydroxybenzyl)butyrolactone",123917,465152,unknown,HMDB0006101,1,P03372,ESR1,"Enterolactone;BHMDF;HPMF;2,3-Bhbb;3,4-Bis((3-hydroxyphenyl)methyl)dihydro-2-(3H)-furanone;trans-2,3-Bis(3-hydroxybenzyl)-gamma-butyrolactone"
+5-alpha-Dihydroprogesterone,92810,407717,28952,HMDB0003759,1,P06401,PGR,"5a-Pregnane-3,20-dione;3,20-Allopregnanedione;5alpha-Pregnane-3,20-dione;5alpha-Dihydroprogesterone;3,20-Dioxo-5alpha-pregnane;5-alpha-Pregnane-3,20-dione"
+17-alpha-Hydroxyprogesterone,6238,1062,17252,HMDB0000374,1,P06401,PGR,17ALPHA-HYDROXYPROGESTERONE;17-Hydroxyprogesterone;17a-Hydroxyprogesterone;Prodix;Prodox;Gestageno gador
+17-alpha-hydroxy-progesterone caproate,169870,1200848,5812,unknown,1,P06401,PGR,HYDROXYPROGESTERONE CAPROATE;Delalutin;Primolut Depot;Hormofort;Proge;Hydroxyprogesterone hexanoate
+Aldosterone,5839,273453,27584,unknown,1,P08235,NR3C2,Electrocortin;Aldocortin;Aldocorten;Aldocortene;(+)-Aldosterone;Elektrocortin
+Dihydrotestosterone,10635,27769,16330,HMDB0002961,1,P10275,AR,STANOLONE;Androstanolone;Andractim;Androlone;Anaboleen;Anabolex
+Androstenediol,10634,440283,2710,HMDB0003818,1,P10275,AR,"Hermaphrodiol;5-Androstenediol;Androst-5-enediol;Androst-5-ene-3beta,17beta-diol;Neumune;3beta,17beta-Dihydroxyandrost-5-ene"
+Androstenedione,6128,274826,16422,HMDB0000053,1,P10275,AR,"4-Androstene-3,17-dione;Androst-4-ene-3,17-dione;4-Androstenedione;Androtex;3,17-Dioxoandrost-4-ene;delta-4-Androstenedione"
+Androsterone,5879,87285,16032,HMDB0000031,1,Q96RI1,NR1H4,Androkinine;Androtine;5alpha-Androsterone;Atromide ICI;3alpha-Hydroxy-5alpha-androstan-17-one;3-Epihydroxyetioallocholan-17-one
+Beclomethasone,20469,1586,3001,unknown,1,P04150,NR3C1,Beclometasone;Beclometasona;Beclometasonum;Beclometasonum [INN-Latin];Beclometasona [INN-Spanish];UNII-KGZ1SLC28Z
+Beclomethasone dipropionate,21700,1200500,3002,HMDB0014538,1,P04150,NR3C1,Beclometasone dipropionate;Beconase;Beclovent;Vancenase;Beclazone;Becloforte
+Betamethasone,9782,632,3077,HMDB0014586,1,P04150,NR3C1,Betadexamethasone;Flubenisolone;Betamethazone;Rinderon;Betacorlan;Betacortril
+Betamethasone 17-Valerate,16533,1497,31277,unknown,1,P04150,NR3C1,BETAMETHASONE VALERATE;Betnovate;Betaderm;Luxiq;beta-Val;Celestoderm
+betamethasone sodium phosphate,65478,1200762,68603,unknown,1,P04150,NR3C1,Bentelan;Betnesol;Betamethasone disodium phosphate;Betamethasone 21-phosphate disodium;beta-Methasone phosphate;Betamethazone disodium phosphate
+biochanin A,5280373,131921,17574,HMDB0002338,2,P03372,ESR1,"Biochanin;4'-Methylgenistein;5,7-Dihydroxy-4'-methoxyisoflavone;5,7-Dihydroxy-3-(4-methoxyphenyl)-4H-chromen-4-one;Genistein 4-methyl ether;5,7-Dihydrox -4'-methoxyisoflavone"
+biochanin A,5280373,131921,17574,HMDB0002338,2,Q92731,ESR2,"Biochanin;4'-Methylgenistein;5,7-Dihydroxy-4'-methoxyisoflavone;5,7-Dihydroxy-3-(4-methoxyphenyl)-4H-chromen-4-one;Genistein 4-methyl ether;5,7-Dihydrox -4'-methoxyisoflavone"
+bisphenol A,6623,418971,33216,HMDB0032133,2,P03372,ESR1,"2,2-Bis(4-hydroxyphenyl)propane;4,4'-Isopropylidenediphenol;Diphenylolpropane;Bisphenol;Diano;4,4'-Bisphenol A"
+bisphenol A,6623,418971,33216,HMDB0032133,2,Q92731,ESR2,"2,2-Bis(4-hydroxyphenyl)propane;4,4'-Isopropylidenediphenol;Diphenylolpropane;Bisphenol;Diano;4,4'-Bisphenol A"
+Budesonide,3033890,unknown,unknown,unknown,1,P04150,NR3C1,AC1MHWI7;AKOS024463387;LS-187734;FT-0604597
+Chlorotrianisene,11289,1200761,3641,HMDB0014414,1,P03372,ESR1,Chlortrianizen;Chlortrianisestrol;TACE;Chlorotrianisine;Chlorestrolo;Chlorotrianizen
+Clobetasol,5311051,1201362,205919,HMDB0015148,1,P04150,NR3C1,"Clobetasolum;UNII-ADN79D536H;ADN79D536H;Clobetasol [INN:BAN];Clobetasolum [INN-Latin];21-Chloro-9-fluoro-11beta,17-dihydroxy-16beta-methylpregna-1,4-diene-3,20-dione"
+Clobetasol propionate,32798,1159650,31414,unknown,1,P04150,NR3C1,Clobetasol 17-propionate;Clobex;Dermovate;Temovate;Embeline;Embeline E
+Corticosterone,5753,110739,16827,HMDB0001547,1,P04150,NR3C1,"17-Deoxycortisol;Reichstein's substance H;Kendall's compound B;Corticosteron;11beta,21-Dihydroxyprogesterone;Compound B"
+Cortisone,222786,1499,16962,HMDB0002802,1,P04150,NR3C1,Kendall's compound E;Andreson;Cortisal;Cortisate;Cortistal;Cortivite
+Coumestrol,5281707,30707,3908,HMDB0002326,2,P03372,ESR1,"Cumoestrol;Cumoesterol;Cumostrol;3,9-Dihydroxy-6H-[1]benzofuro[3,2-c]chromen-6-one;7,12-Dihydroxycoumestan;Coumesterol"
+Coumestrol,5281707,30707,3908,HMDB0002326,2,Q92731,ESR2,"Cumoestrol;Cumoesterol;Cumostrol;3,9-Dihydroxy-6H-[1]benzofuro[3,2-c]chromen-6-one;7,12-Dihydroxycoumestan;Coumesterol"
+Daidzein,5281708,8145,28197,HMDB0003312,2,Q92731,ESR2,"4',7-Dihydroxyisoflavone;Daidzeol;7,4'-Dihydroxyisoflavone;7-hydroxy-3-(4-hydroxyphenyl)-4H-chromen-4-one;4H-1-Benzopyran-4-one, 7-hydroxy-3-(4-hydroxyphenyl)-;7-Hydroxy-3-(4-hydroxyphenyl)-4H-1-benzopyran-4-one"
+Daidzein,5281708,8145,28197,HMDB0003312,2,P03372,ESR1,"4',7-Dihydroxyisoflavone;Daidzeol;7,4'-Dihydroxyisoflavone;7-hydroxy-3-(4-hydroxyphenyl)-4H-chromen-4-one;4H-1-Benzopyran-4-one, 7-hydroxy-3-(4-hydroxyphenyl)-;7-Hydroxy-3-(4-hydroxyphenyl)-4H-1-benzopyran-4-one"
+Dehydroepiandrosterone,5881,90593,28689,HMDB0000077,4,Q07869,PPARA,DHEA;PRASTERONE;Dehydroisoandrosterone;Androstenolone;trans-Dehydroandrosterone;Psicosterone
+Dehydroepiandrosterone,5881,90593,28689,HMDB0000077,4,O75469,NR1I2,DHEA;PRASTERONE;Dehydroisoandrosterone;Androstenolone;trans-Dehydroandrosterone;Psicosterone
+Dehydroepiandrosterone,5881,90593,28689,HMDB0000077,4,P03372,ESR1,DHEA;PRASTERONE;Dehydroisoandrosterone;Androstenolone;trans-Dehydroandrosterone;Psicosterone
+Dehydroepiandrosterone,5881,90593,28689,HMDB0000077,4,Q92731,ESR2,DHEA;PRASTERONE;Dehydroisoandrosterone;Androstenolone;trans-Dehydroandrosterone;Psicosterone
+Dehydrotestosterone,13308,209073,34584,unknown,1,P10275,AR,"Boldenone;1,2-Dehydrotestosterone;1-Dehydrotestosterone;1,2-Didehydrotestosterone;17beta-Boldenone;delta1-Testosterone"
+Desogestrel,40973,1533,4453,HMDB0014449,2,P03372,ESR1,"Cerazette;Desogestrelum;Org-2969;Desogestrelum [INN-Latin];ORG 2969;13-Ethyl-11-methylene-18,19-dinor-17alpha-pregn-4-en-20-yn-17-ol"
+Desogestrel,40973,1533,4453,HMDB0014449,2,P06401,PGR,"Cerazette;Desogestrelum;Org-2969;Desogestrelum [INN-Latin];ORG 2969;13-Ethyl-11-methylene-18,19-dinor-17alpha-pregn-4-en-20-yn-17-ol"
+Desoximetasone,5311067,1766,691037,HMDB0014687,1,P04150,NR3C1,Desoxymethasone;Desoximetasona;Desoximetasonum;Topicort;Topicort LP;HOE-304
+Desoxycorticosterone,6166,1498,16973,HMDB0000016,1,P08235,NR3C2,Desoxycortone;Deoxycorticosterone;11-Deoxycorticosterone;21-Hydroxyprogesterone;Cortexone;Deoxycortone
+Dexamethasone,5743,384467,41879,HMDB0015364,2,P51843,NR0B1,Decadron;Dexamethazone;Maxidex;Prednisolone F;Decaspray;Desametasone
+Dexamethasone,5743,384467,41879,HMDB0015364,2,P04150,NR3C1,Decadron;Dexamethazone;Maxidex;Prednisolone F;Decaspray;Desametasone
+DHEA sulfate,12594,259898,16814,HMDB0001032,3,Q07869,PPARA,Prasterone sulfate;DEHYDROEPIANDROSTERONE SULFATE;Dehydroisoandrosterone sulfate;DHEAS;Dehydroepiandrosterone sulphate;Dehydroepiandrosterone monosulfate
+DHEA sulfate,12594,259898,16814,HMDB0001032,3,Q03181,PPARD,Prasterone sulfate;DEHYDROEPIANDROSTERONE SULFATE;Dehydroisoandrosterone sulfate;DHEAS;Dehydroepiandrosterone sulphate;Dehydroepiandrosterone monosulfate
+DHEA sulfate,12594,259898,16814,HMDB0001032,3,P37231,PPARG,Prasterone sulfate;DEHYDROEPIANDROSTERONE SULFATE;Dehydroisoandrosterone sulfate;DHEAS;Dehydroepiandrosterone sulphate;Dehydroepiandrosterone monosulfate
+Dienestrol,667476,1018,4518,HMDB0015027,1,P03372,ESR1,"Dehydrostilbestrol;Dienoestrol;Cycladiene;(E,E)-Dienestrol;Dehydrostilboestrol;Dienestrolum"
+Diethylstilbestrol,448537,411,41922,unknown,2,P03372,ESR1,Stilbestrol;Stilboestrol;Distilbene;Agostilben;Estrobene;Estromenin
+Diethylstilbestrol,448537,411,41922,unknown,2,P62508,ESRRG,Stilbestrol;Stilboestrol;Distilbene;Agostilben;Estrobene;Estromenin
+Dydrogesterone,9051,1200853,31527,HMDB0014522,1,P06401,PGR,Isopregnenone;Hydrogesterone;Duphaston;Hydrogestrone;Gestatron;Diphaston
+Enterodiol,115089,471076,81556,HMDB0005056,1,P03372,ESR1,"(-)-Enterodiol;UNII-BZF4X2AWRP;Arbo 9;BZF4X2AWRP;1,4-Butanediol, 2,3-bis((3-hydroxyphenyl)methyl)-, (2R,3R)-;(2R,3R)-2,3-bis[(3-hydroxyphenyl)methyl]butane-1,4-diol"
+Equilenin,444865,225546,unknown,unknown,2,P03372,ESR1,"UNII-W8FTJ17C4J;3-Hydroxyestra-1,3,5(10),6,8-pentaen-17-one;W8FTJ17C4J;Equilenina [Spanish];CCRIS 9075;Equilenin solution"
+Equilenin,444865,225546,unknown,unknown,2,Q92731,ESR2,"UNII-W8FTJ17C4J;3-Hydroxyestra-1,3,5(10),6,8-pentaen-17-one;W8FTJ17C4J;Equilenina [Spanish];CCRIS 9075;Equilenin solution"
+Equilin,3247,1474552,91940,unknown,2,P03372,ESR1,"Estra-1,3,5(10),7-tetraen-17-one, 3-hydroxy-;1,3,5[10],7-Estratetraen-3-ol-17-one;3-Hydroxy-1,3,5[10],7-estratetraen-17-one;EQUILINE;SR-05000001615;CCRIS 9074"
+Equilin,3247,1474552,91940,unknown,2,Q92731,ESR2,"Estra-1,3,5(10),7-tetraen-17-one, 3-hydroxy-;1,3,5[10],7-Estratetraen-3-ol-17-one;3-Hydroxy-1,3,5[10],7-estratetraen-17-one;EQUILINE;SR-05000001615;CCRIS 9074"
+Equol,91469,198877,34741,HMDB0002209,1,Q92731,ESR2,"(S)-3-(4-Hydroxyphenyl)chroman-7-ol;(S)-Equol;S-Equol;(-)-(S)-Equol;(-)-Equol;4',7-Isoflavandiol"
+Estetrol,27125,1230314,142773,unknown,2,P03372,ESR1,"UNII-ENB39R14VF;ENB39R14VF;Estetrol [USAN];(14beta,15alpha,16alpha,17alpha)-Estra-1,3,5(10)-Triene-3,15,16,17-Tetrol;(8R,9S,13S,14S,15R,16R,17R)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,15,16,17-tetrol;(8R,9S,13S,14S,15R,16R,17R)-13-methyl-7,8,9,11,12,13,14,15,16,17-decahydro-6H-cyclopenta[a]phenanthrene-3,15,16,17-tetraol"
+Estetrol,27125,1230314,142773,unknown,2,Q92731,ESR2,"UNII-ENB39R14VF;ENB39R14VF;Estetrol [USAN];(14beta,15alpha,16alpha,17alpha)-Estra-1,3,5(10)-Triene-3,15,16,17-Tetrol;(8R,9S,13S,14S,15R,16R,17R)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,15,16,17-tetrol;(8R,9S,13S,14S,15R,16R,17R)-13-methyl-7,8,9,11,12,13,14,15,16,17-decahydro-6H-cyclopenta[a]phenanthrene-3,15,16,17-tetraol"
+Estradiol,5757,135,16469,HMDB0000151,3,P03372,ESR1,beta-Estradiol;17beta-Estradiol;Oestradiol;Dihydrofolliculin;Estrace;Ovocyclin
+Estradiol,5757,135,16469,HMDB0000151,3,Q92731,ESR2,beta-Estradiol;17beta-Estradiol;Oestradiol;Dihydrofolliculin;Estrace;Ovocyclin
+Estradiol,5757,135,16469,HMDB0000151,3,O75469,NR1I2,beta-Estradiol;17beta-Estradiol;Oestradiol;Dihydrofolliculin;Estrace;Ovocyclin
+Estriol,5756,193482,27974,HMDB0000153,1,P03372,ESR1,Oestriol;Estratriol;Ovestin;Ovestrion;Trihydroxyestrin;Destriol
+Estrone,5870,1405,17263,HMDB0000145,1,P03372,ESR1,OESTRONE;Theelin;Estrugenone;Kestrone;Estron;Follicunodis
+Ethinyl Estradiol,5991,691,4903,HMDB0001926,2,P03372,ESR1,Ethynylestradiol;Ethynyl estradiol;ETHINYLESTRADIOL;Ethinyloestradiol;Ginestrene;17-Ethinylestradiol
+Ethinyl Estradiol,5991,691,4903,HMDB0001926,2,O75469,NR1I2,Ethynylestradiol;Ethynyl estradiol;ETHINYLESTRADIOL;Ethinyloestradiol;Ginestrene;17-Ethinylestradiol
+Ethylestrenol,13765,1200623,31578,unknown,1,P10275,AR,Maxibolin;Orabolin;Neodurabolin;Duraboral;Maxibalin;Orgabolin
+Fluocinolone Acetonide,6215,989,31623,HMDB0014729,1,P04150,NR3C1,Synalar;Flucinar;Synandone;Fluonid;Jellin;Synamol
+Fluocinonide,9642,1501,5109,HMDB0015181,1,P04150,NR3C1,Lidex;Fluocinolide;Metosyn;Topsyn;Vanos;Fluocinolide acetate
+Fluoxymesterone,6446,1445,5120,HMDB0015316,2,P03372,ESR1,Fluoximesterone;Fluoxymestrone;Halotestin;Androfluorene;Androfluorone;Fluotestin
+Fluoxymesterone,6446,1445,5120,HMDB0015316,2,P10275,AR,Fluoximesterone;Fluoxymestrone;Halotestin;Androfluorene;Androfluorone;Fluotestin
+Flurandrenolone,15209,1201012,5127,HMDB0014984,1,P04150,NR3C1,Fludroxycortide;Cordran;Haelan;Fluorandrenolone;Fludroxicortidum;Drenison
+Formononetin,5280378,242341,18088,HMDB0005808,2,P03372,ESR1,"Biochanin B;Formononetol;7-Hydroxy-4'-methoxyisoflavone;7-hydroxy-3-(4-methoxyphenyl)-4H-chromen-4-one;4'-O-methyldaidzein;4H-1-Benzopyran-4-one, 7-hydroxy-3-(4-methoxyphenyl)-"
+Formononetin,5280378,242341,18088,HMDB0005808,2,Q92731,ESR2,"Biochanin B;Formononetol;7-Hydroxy-4'-methoxyisoflavone;7-hydroxy-3-(4-methoxyphenyl)-4H-chromen-4-one;4'-O-methyldaidzein;4H-1-Benzopyran-4-one, 7-hydroxy-3-(4-methoxyphenyl)-"
+Genistein,5280961,44,28088,HMDB0003217,1,Q92731,ESR2,"Prunetol;4',5,7-Trihydroxyisoflavone;Genisteol;Genisterin;Sophoricol;5,7,4'-Trihydroxyisoflavone"
+Gestodene,3033968,1213583,135323,HMDB0015668,1,P06401,PGR,Gestoden;Gestodenum [INN-Latin];Gestodeno [INN-Spanish];Gestodeno;Gestodenum;SH B 331
+Glycitein,5317750,513024,34778,HMDB0005781,1,P03372,ESR1,"Glycetein;7,4'-Dihydroxy-6-methoxyisoflavone;4',7-Dihydroxy-6-methoxyisoflavone;UNII-92M5F28TVF;4H-1-Benzopyran-4-one, 7-hydroxy-3-(4-hydroxyphenyl)-6-methoxy-;7-Hydroxy-3-(4-hydroxyphenyl)-6-methoxy-4H-1-benzopyran-4-one"
+Hexestrol,3606,6615,31669,unknown,2,P03372,ESR1,"Dihydrodiethylstilbestrol;Hexoestrolum;Vitestrol;Exestrol;4,4'-(1,2-Diethylethylene)diphenol;Stilbestrol, dihydro-"
+Hexestrol,3606,6615,31669,unknown,2,Q92731,ESR2,"Dihydrodiethylstilbestrol;Hexoestrolum;Vitestrol;Exestrol;4,4'-(1,2-Diethylethylene)diphenol;Stilbestrol, dihydro-"
+Hydrocortisone,5754,389621,17650,HMDB0000063,1,P04150,NR3C1,Cortisol;Acticort;Cetacort;Hydrocortisyl;Cobadex;Hydrasson
+Triiodothyronine,5920,1544,18258,HMDB0000265,2,P10827,THRA,"3,3',5-Triiodo-L-thyronine;Liothyronin;Tresitope;L-Liothyronine;O-(4-Hydroxy-3-iodophenyl)-3,5-diiodo-L-tyrosine;Liothyroninum"
+Triiodothyronine,5920,1544,18258,HMDB0000265,2,P10828,THRB,"3,3',5-Triiodo-L-thyronine;Liothyronin;Tresitope;L-Liothyronine;O-(4-Hydroxy-3-iodophenyl)-3,5-diiodo-L-tyrosine;Liothyroninum"
+Melatonin,896,45,16796,HMDB0001389,1,P03372,ESR1,Melatonine;N-Acetyl-5-methoxytryptamine;Circadin;5-Methoxy-N-acetyltryptamine;N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]acetamide;N-(2-(5-Methoxy-1H-indol-3-yl)ethyl)acetamide
+Mesterolone,15020,258918,135293,HMDB0006036,1,P10275,AR,Androviron;Mesteranum;Mestoranum;Proviron;Testiwop;Mesterolon
+Mestranol,6291,1201151,6784,HMDB0015446,1,P03372,ESR1,Norquen;Menophase;Devocin;Ovastol;Ethynylestradiol 3-methyl ether;Mestranolum
+Methylprednisolone,6741,650,6888,HMDB0015094,1,P04150,NR3C1,Medrol;Medrone;Urbason;Metilprednisolone;6alpha-Methylprednisolone;Metilbetasone
+Methylprednisolone Hemisuccinate,16923,1201265,135765,unknown,1,P04150,NR3C1,Methylprednisolone succinate;Solumedrol;UNII-5GMR90S4KN;Methylprednisolone Hemisuccinate [USP];Solu-Medrol;C26H34O8
+Methylprednisolone sodium succinate,23680530,1201081,135765,unknown,1,P04150,NR3C1,Asmacortone;Metypresol;Corticel;Emmetipi;Metypred;Prednilem
+Methyltestosterone,6010,1395,27436,HMDB0015655,1,P10275,AR,17-Methyltestosterone;Testred;Metandren;Android;Androsan;Androsten
+Nandrolone,9904,757,7466,HMDB0002725,1,P10275,AR,19-Nortestosterone;Norandrostenolone;Nortestosterone;19-Norandrostenolone;Nortestonate;Menidrabol
+Oxandrolone,5878,1200436,7820,HMDB0014759,1,P10275,AR,Anavar;Oxandrin;Protivar;Vasorome;Lonavar;Oxandrolona
+Oxymetholone,3032303,unknown,unknown,unknown,1,P10275,AR,Anasterone;UNII-77LW93C64T;Anadrol;77LW93C64T;SMR000058877;AC1MHTW9
+Prednicarbate,6714002,1200386,135791,unknown,1,P04150,NR3C1,Dermatop;Hoe 777;Hoe-777;Dermatop E emollient;UNII-V901LV1K7D;S-770777
+Prednisolone,5755,131,8378,HMDB0014998,1,P04150,NR3C1,Metacortandralone;Hydroretrocortine;Predonine;Deltacortril;Meticortelone;Deltahydrocortisone
+Prednisone,5865,635,8382,HMDB0014773,1,P04150,NR3C1,Dehydrocortisone;Deltasone;Decortin;Meticorten;Orasone;Rectodelt
+Pregnanetriol,101967,1878246,34464,unknown,1,P04150,NR3C1,"5Beta-pregnane-3alpha,17alpha,20alpha-triol;UNII-43822S61TB;43822S61TB;5-beta-Pregnane-3-alpha,17-alpha,20-alpha-triol;Pregnane-3,17,20-triol, (3.alpha.,5.beta.,20S)-;5|A-Pregnane-3|A,17|A,20|A-triol"
+Pregnenolone,8955,253363,16581,HMDB0000253,2,P04150,NR3C1,3beta-Hydroxypregn-5-en-20-one;Arthenolone;Pregnetan;Pregneton;Pregnolon;Prenolon
+Pregnenolone,8955,253363,16581,HMDB0000253,2,O75469,NR1I2,3beta-Hydroxypregn-5-en-20-one;Arthenolone;Pregnetan;Pregneton;Pregnolon;Prenolon
+Progestrone,5994,103,17026,HMDB0001830,2,P03372,ESR1,"Pregn-4-ene-3,20-dione;Agolutin;Luteohormone;Crinone;4-Pregnene-3,20-dione;Progestin"
+Progestrone,5994,103,17026,HMDB0001830,2,P06401,PGR,"Pregn-4-ene-3,20-dione;Agolutin;Luteohormone;Crinone;4-Pregnene-3,20-dione;Progestin"
+Quinestrol,9046,1201165,8716,HMDB0015579,1,P03372,ESR1,Estrovis;Estrovister;Plestrovis;Eston;Quinestrolum;Quinestrolo [DCIT]
+Testosterone,6013,386630,17347,unknown,1,P10275,AR,Testosteron;Androderm;Mertestate;Sustanon;Testoderm;Virosterone
+Testosterone 17 beta-cypionate,6012,unknown,unknown,unknown,1,P10275,AR,Durandro;Jectatest;Andro-Cyp;Dep-Test;Depo-Testosterone;Malogen CYP
+Testosterone Propionate,5995,1170,9466,HMDB0015489,1,P10275,AR,Agovirin;Androlon;Androteston;Aquaviron;Hormoteston;Enarmon
+L-thyroxine,5819,1624,18332,HMDB0000248,1,P10828,THRB,"Tetraiodothyronine;Thyrax;3,3',5,5'-Tetraiodo-L-thyronine;Thyratabs;Thyreoideum;Thyroxinal"
+Trenbolone,25015,3182355,35018,unknown,1,P10275,AR,17beta-Trenbolone;Trienbolone;(+)-Trenbolone;17-beta-Trenbolone;Trenbolonum [INN-Latin];Trembolona [INN-Spanish]
+Trenbolone acetate,66359,1698011,unknown,unknown,1,P10275,AR,Finaplix;Trenbolone 17-acetate;Component T-S;Trenbolone (acetate);UNII-RUD5Y4SV0S;Trienbolone acetate
+Triamcinolone,31307,1451,9667,HMDB0014758,1,P04150,NR3C1,Fluoxyprednisolone;Aristocort;Rodinolone;Triamcinolon;Kenacort;Volon
+Triamcinolone Acetonide,6436,1504,71418,unknown,1,P04150,NR3C1,Azmacort;Aristoderm;Aristogel;Kenalone;Solodelf;Tramacin
+Zearalenone,6433708,1335015,unknown,unknown,3,P03372,ESR1,AC1O5GMZ;ZINC5751871;CCG-208452;NCGC00163644-01;SR-05000002235;SR-05000002235-2
+Zearalenone,6433708,1335015,unknown,unknown,3,Q92731,ESR2,AC1O5GMZ;ZINC5751871;CCG-208452;NCGC00163644-01;SR-05000002235;SR-05000002235-2
+Zearalenone,6433708,1335015,unknown,unknown,3,O75469,NR1I2,AC1O5GMZ;ZINC5751871;CCG-208452;NCGC00163644-01;SR-05000002235;SR-05000002235-2
+Zeranol,2999413,450613,35064,unknown,2,P03372,ESR1,Zearalanol;alpha-Zearalanol;Ralabol;Ralgro;Ralone;Zearanol
+Zeranol,2999413,450613,35064,unknown,2,Q92731,ESR2,Zearalanol;alpha-Zearalanol;Ralabol;Ralgro;Ralone;Zearanol
+18-oxocortisol,123712,unknown,unknown,unknown,1,P08235,NR3C2,"(11b)-11,17,21-Trihydroxy-3,20-dioxopregn-4-en-18-al;AC1L3X61;CTK8D6758;11beta,17alpha,21-Trihydroxy-3,20-diketo-4-pregnene-18-al;Pregn-4-en-18-al, 11,17,21-trihydroxy-3,20-dioxo-, (11beta)-;AKOS027326766"
+Tetrahydrocorticosterone,10590,unknown,unknown,unknown,1,P04150,NR3C1,"AC1L1VIV;NSC112288;MCULE-4028476263;NSC-112288;1-(3,11-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl)-2-hydroxyethanone"
+Sitosterol,636741,unknown,unknown,unknown,2,P03372,ESR1,"AC1LCSTV;(3S,8R,9R,10S,13R,14S,17R)-17-[(2R,5S)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
+Sitosterol,636741,unknown,unknown,unknown,2,Q92731,ESR2,"AC1LCSTV;(3S,8R,9R,10S,13R,14S,17R)-17-[(2R,5S)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
+22-hydroxycholesterol,167685,422904,67237,HMDB0004035,1,Q96RI1,NR1H4,"22(R)-Hydroxycholesterol;22R-hydroxycholesterol;22beta-Hydroxycholesterol;(22R)-22-Hydroxycholesterol;cholest-5-en-3beta,22R-diol;(3beta,22R)-Cholest-5-ene-3,22-diol"
+17-Epiestriol,256737,1232445,42156,unknown,1,Q92731,ESR2,"17alpha-Estriol;UNII-4G7IHY560Z;4G7IHY560Z;16alpha-Hydroxy-17alpha-estradiol;(16alpha,17alpha)-Estra-1,3,5(10)-Triene-3,16,17-Triol;1,3,5(10)-Estratriene-3,16alpha,17alpha-triol"
+2-methoxyestradiol,66414,299613,28955,HMDB0000405,2,P03372,ESR1,"Panzem;2-Methoxyestradiol-17beta;2-Hydroxyestradol 2-methyl ether;Estradiol, 2-methoxy-;2ME2;2-MeOE2"
+2-methoxyestradiol,66414,299613,28955,HMDB0000405,2,Q92731,ESR2,"Panzem;2-Methoxyestradiol-17beta;2-Hydroxyestradol 2-methyl ether;Estradiol, 2-methoxy-;2ME2;2-MeOE2"
+3beta androstanediol,242332,316048,18329,HMDB0000493,1,Q92731,ESR2,"5alpha-Androstane-3beta,17beta-diol;UNII-6J0K4253QD;5-ALPHA-ANDROSTANE-3-BETA,17BETA-DIOL;5a-Androstane-3b,17b-diol;3beta,17beta-Dihydroxy-5alpha-androstane;CBMYJHIOYJEBSB-YSZCXEEOSA-N"
+Cholesteryl sulfate,65076,1231592,41321,HMDB0000653,1,P35398,RORA,Cholesterol sulfate;Cholesterol 3-sulfate;CHOLEST-5-EN-3-YL HYDROGEN SULFATE;CCRIS 7559;Cholest-5-en-3beta-ol sulfate;Chol-sulf
+Taurodeoxycholic Acid,10594,unknown,unknown,unknown,1,Q96RI1,NR1H4,"CCRIS 712;Deoxycholyltaurine;Ethanesulfonic acid, 2-(((3alpha,5beta,12alpha)-3,12-dihydroxy-24-oxocholan-24-yl)amino)-;UNII-20668G0RPI;SODIUM TAURODEOXYCHOLATE;Taurine Deoxycholate"
+Taurochenodeoxycholic Acid,10591,unknown,unknown,unknown,1,Q96RI1,NR1H4,"2-[4-[(3R,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoylamino]ethanesulfonic acid;AC1L1VIY;Ethanesulfonic acid, 2-(((3alpha,5beta,7alpha)-3,7-dihydroxy-24-oxocholan-24-yl)amino)-;AN-45489;LS-175293"
+Serotonin,5202,39,28790,HMDB0000259,7,P47898,HTR5A,5-HYDROXYTRYPTAMINE;3-(2-Aminoethyl)-1H-indol-5-ol;Enteramine;5-HT;Antemovis;Serotonine
+Serotonin,5202,39,28790,HMDB0000259,7,Q13639,HTR4,5-HYDROXYTRYPTAMINE;3-(2-Aminoethyl)-1H-indol-5-ol;Enteramine;5-HT;Antemovis;Serotonine
+Serotonin,5202,39,28790,HMDB0000259,7,P28335,HTR2C,5-HYDROXYTRYPTAMINE;3-(2-Aminoethyl)-1H-indol-5-ol;Enteramine;5-HT;Antemovis;Serotonine
+Serotonin,5202,39,28790,HMDB0000259,7,P28223,HTR2A,5-HYDROXYTRYPTAMINE;3-(2-Aminoethyl)-1H-indol-5-ol;Enteramine;5-HT;Antemovis;Serotonine
+Serotonin,5202,39,28790,HMDB0000259,7,P46098,HTR3A,5-HYDROXYTRYPTAMINE;3-(2-Aminoethyl)-1H-indol-5-ol;Enteramine;5-HT;Antemovis;Serotonine
+Serotonin,5202,39,28790,HMDB0000259,7,P18089,ADRA2B,5-HYDROXYTRYPTAMINE;3-(2-Aminoethyl)-1H-indol-5-ol;Enteramine;5-HT;Antemovis;Serotonine
+Serotonin,5202,39,28790,HMDB0000259,7,P08913,ADRA2A,5-HYDROXYTRYPTAMINE;3-(2-Aminoethyl)-1H-indol-5-ol;Enteramine;5-HT;Antemovis;Serotonine
+Epinephrine,5816,679,28918,HMDB0000068,2,P08588,ADRB1,l-Adrenaline;L-epinephrine;Adrenalin;Levoepinephrine;Epinefrina;Adnephrine
+Epinephrine,5816,679,28918,HMDB0000068,2,P35348,ADRA1A,l-Adrenaline;L-epinephrine;Adrenalin;Levoepinephrine;Epinefrina;Adnephrine
+"1,25-dihydroxyvitamin D3-26,23-lactone",6438368,unknown,unknown,HMDB0000969,1,P11473,VDR,"1,25-Lactone;Calcitriol-26,23-lactone;1,25-Dihydroxycholecalciferol-26-23-lactone;1alpha,25-Dihydroxyvitamin D3-26,23-lactone;(23S,25R)-1alpha,25-dihydroxyvitamin D3 26,23-lactone / (23S,25R)-1alpha,25-dihydroxycholecalciferol 26,23-lactone;(3R,5S)-5-[(2R)-2-[(1R,3aS,4E,7aR)-4-[(2Z)-2-[(3S,5R)-3,5-dihydroxy-2-methylidenecyclohexylidene]ethylidene]-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-1-yl]propyl]-3-hydroxy-3-methyloxolan-2-one"
+Finasteride,57363,710,5062,HMDB0001984,1,P10275,AR,Propecia;Proscar;Finastid;Prostide;Chibro-Proscar;MK-906
+Guggulsterone M,643658,unknown,unknown,HMDB0002726,1,Q96RI1,NR1H4,"Guggulsterone-M;AC1LD7OU;20-Methoxy-4,17(20)E-pregnadiene-3,16-dione;(8xi,9xi,14xi,17E)-20-methoxypregna-4,17-diene-3,16-dione;(1R,2R,10S,11S,14E,15S)-14-(1-methoxyethylidene)-2,15-dimethyltetracyclo[8.7.0.0;{2,7}.0;{11,15}]heptadec-6-ene-5,13-dione;(8S,9R,10R,13S,14S,17E)-17-(1-methoxyethylidene)-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15-decahydrocyclopenta[a]phenanthrene-3,16-dione"
+Fluticasone,54580,3182902,unknown,unknown,1,P04150,NR3C1,DSSTox_CID_25511;DSSTox_RID_80922;DSSTox_GSID_45511;NCGC00016943-01;CAS-80474-14-2;Fluticasone propiponate
+4-Androstenediol,136297,195836,34386,HMDB0005849,1,P10275,AR,"UNII-G10EHA9I0D;G10EHA9I0D;4-Androsten-3beta,17beta-diol;(3S,8R,9S,10R,13S,14S,17S)-10,13-dimethyl-2,3,6,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-3,17-diol;Androst-4-ene-3beta,17beta-diol;Androst-4-ene-3.beta.,17.beta.-diol"
+Pregnanediol,4901,unknown,unknown,unknown,1,O75469,NR1I2,"Pregnane-3,20-diol;Pregnandiol [JAN];Diol (6CI,7CI);Pregnane-3,20-diol #;Pregnane-3alpha,20alpha-diol;NSC 1612"
+Oxymesterone,72061,1908006,34903,HMDB0006027,1,P10275,AR,Oranabol;Anamidol;Aranabol;Theranabol;Oxymestrone;UNII-4R73K9MRMX
+Norepinephrine,439260,1437,18357,HMDB0000216,9,P08588,ADRB1,L-Noradrenaline;Arterenol;Levarterenol;Levophed;L-Norepinephrine;(-)-Norepinephrine
+Norepinephrine,439260,1437,18357,HMDB0000216,9,P08913,ADRA2A,L-Noradrenaline;Arterenol;Levarterenol;Levophed;L-Norepinephrine;(-)-Norepinephrine
+Norepinephrine,439260,1437,18357,HMDB0000216,9,P18825,ADRA2C,L-Noradrenaline;Arterenol;Levarterenol;Levophed;L-Norepinephrine;(-)-Norepinephrine
+Norepinephrine,439260,1437,18357,HMDB0000216,9,P35348,ADRA1A,L-Noradrenaline;Arterenol;Levarterenol;Levophed;L-Norepinephrine;(-)-Norepinephrine
+Norepinephrine,439260,1437,18357,HMDB0000216,9,P18089,ADRA2B,L-Noradrenaline;Arterenol;Levarterenol;Levophed;L-Norepinephrine;(-)-Norepinephrine
+Norepinephrine,439260,1437,18357,HMDB0000216,9,P35368,ADRA1B,L-Noradrenaline;Arterenol;Levarterenol;Levophed;L-Norepinephrine;(-)-Norepinephrine
+Norepinephrine,439260,1437,18357,HMDB0000216,9,P07550,ADRB2,L-Noradrenaline;Arterenol;Levarterenol;Levophed;L-Norepinephrine;(-)-Norepinephrine
+Norepinephrine,439260,1437,18357,HMDB0000216,9,P25100,ADRA1D,L-Noradrenaline;Arterenol;Levarterenol;Levophed;L-Norepinephrine;(-)-Norepinephrine
+Norepinephrine,439260,1437,18357,HMDB0000216,9,P13945,ADRB3,L-Noradrenaline;Arterenol;Levarterenol;Levophed;L-Norepinephrine;(-)-Norepinephrine
+Norbolethone,66255,2105134,unknown,HMDB0006026,1,P10275,AR,Norboletone;Genabol;DL-Norbolethone;Norbalethone;Norboletone [INN];Wy 3475
+Taurocholic Acid,440567,unknown,unknown,unknown,1,Q96RI1,NR1H4,unknown
+Taurolithocholic Acid,439763,408701,36259,unknown,1,Q96RI1,NR1H4,Taurolithocholate;Lithocholyltaurine;Lithocholic acid taurine conjugate;N-(3alpha-hydroxy-5beta-cholan-24-oyl)-taurine;taurolithocholic acid (TLCA);Taurolithocholsaure
+Stigmasterol,5280794,400247,28824,HMDB0000937,2,P55055,NR1H2,"Stigmasterin;beta-Stigmasterol;Stigmasta-5,22-dien-3beta-ol;(24S)-5,22-Stigmastadien-3beta-ol;UNII-99WUK5D0Y8;99WUK5D0Y8"
+Stigmasterol,5280794,400247,28824,HMDB0000937,2,Q13133,NR1H3,"Stigmasterin;beta-Stigmasterol;Stigmasta-5,22-dien-3beta-ol;(24S)-5,22-Stigmastadien-3beta-ol;UNII-99WUK5D0Y8;99WUK5D0Y8"
+Bolasterone,102146,259548,34583,HMDB0006048,1,P10275,AR,"Myagen;UNII-T7ZM08F7FU;U-19763;17beta-Hydroxy-7alpha,17-dimethylandrost-4-en-3-one;7alpha,17alpha-Dimethyltestosterone;T7ZM08F7FU"
+5-Oxoete,5283159,18028,52449,HMDB0010217,1,Q8TDS5,OXER1,"5-Oxo-ETE;5-oxo-6E,8Z,11Z,14Z-eicosatetraenoic acid;5-Kete;5-Oxoeicosatetraenoic acid;(6E,8Z,11Z,14Z)-5-Oxoicosa-6,8,11,14-tetraenoic acid;5-Oxo-eicosatetraenoate"
+Testosterone enanthate,9416,1200335,9464,HMDB0005814,1,P10275,AR,Testosterone heptanoate;Testosterone enantate;Testosterone heptylate;Androtardyl;Atlatest;Testanthate
+Medroxyprogesterone,541103,unknown,unknown,unknown,1,P03372,ESR1,"MLS002639162;NCGC00183122-01;AC1LBRUD;Pregn-4-ene-3,20-dione, 17-hydroxy-6-methyl-, (6.alpha.)-;FRQMUZJSZHZSGN-UHFFFAOYSA-N;MCULE-8197236760"
+Desmosterol,439577,455876,17737,HMDB0002719,2,P55055,NR1H2,"24-Dehydrocholesterol;UNII-ANP93865R8;Cholesta-5,24-dien-3beta-ol;NSC 226126;ANP93865R8;(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R)-6-methylhept-5-en-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
+Desmosterol,439577,455876,17737,HMDB0002719,2,Q13133,NR1H3,"24-Dehydrocholesterol;UNII-ANP93865R8;Cholesta-5,24-dien-3beta-ol;NSC 226126;ANP93865R8;(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R)-6-methylhept-5-en-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol"
+5S-HpETE,5280778,1743204,15632,HMDB0001193,1,Q8TDS5,OXER1,"5(S)-HPETE;5(S)-Hydroperoxyeicosatetraenoic acid;5-Hydroperoxy-6,8,11,14-eicosatetraenoic acid;5S-hydroperoxy-6E,8Z,11Z,14Z-eicosatetraenoic acid;5(S)-Hydroperoxy-6-trans-8,11,14-cis-eicosatetraenoic acid;(5S,6E,8Z,11Z,14Z)-5-hydroperoxyicosa-6,8,11,14-tetraenoic acid"
+6-trans-LTB4,5283128,unknown,63981,HMDB0001085,3,Q15722,LTB4R,"6-trans-Leukotriene B4;5(S),12(R)-Dihete;5S,12R-dihydroxy-6E,8E,10E,14Z-eicosatetraenoic acid;(6E,5S,12R)-Leukotriene B4;(5S,6E,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid;5(S),12(R)-Dihydroxy-6,8,10,14-(trans,trans,trans,cis)-eicosatetraenoic acid"
+6-trans-LTB4,5283128,unknown,63981,HMDB0001085,3,Q9Y271,CYSLTR1,"6-trans-Leukotriene B4;5(S),12(R)-Dihete;5S,12R-dihydroxy-6E,8E,10E,14Z-eicosatetraenoic acid;(6E,5S,12R)-Leukotriene B4;(5S,6E,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid;5(S),12(R)-Dihydroxy-6,8,10,14-(trans,trans,trans,cis)-eicosatetraenoic acid"
+6-trans-LTB4,5283128,unknown,63981,HMDB0001085,3,Q9NPC1,LTB4R2,"6-trans-Leukotriene B4;5(S),12(R)-Dihete;5S,12R-dihydroxy-6E,8E,10E,14Z-eicosatetraenoic acid;(6E,5S,12R)-Leukotriene B4;(5S,6E,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid;5(S),12(R)-Dihydroxy-6,8,10,14-(trans,trans,trans,cis)-eicosatetraenoic acid"
+12-epi-LTB4,5283130,unknown,72795,HMDB0005088,3,Q15722,LTB4R,"12(S)-Leukotriene B4;12-epi-Leukotriene B4;5S,12S-dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid;(5S,6Z,8E,10E,12S,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid;12-epi LTB4;6-trans-12-epi-Leukotriene B4"
+12-epi-LTB4,5283130,unknown,72795,HMDB0005088,3,Q9Y271,CYSLTR1,"12(S)-Leukotriene B4;12-epi-Leukotriene B4;5S,12S-dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid;(5S,6Z,8E,10E,12S,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid;12-epi LTB4;6-trans-12-epi-Leukotriene B4"
+12-epi-LTB4,5283130,unknown,72795,HMDB0005088,3,Q9NPC1,LTB4R2,"12(S)-Leukotriene B4;12-epi-Leukotriene B4;5S,12S-dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid;(5S,6Z,8E,10E,12S,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid;12-epi LTB4;6-trans-12-epi-Leukotriene B4"
+"12-keto-10,11,14,15-tetrahydro-LTB4",5283122,unknown,unknown,HMDB0002995,3,Q15722,LTB4R,"5S-hydroxy-12-keto-6Z,8E-eicosadienoic acid;LMFA03020004;AC1NR1KK;12-Keto-tetrahydro-leukotriene B4;5S-hydroxy-12-keto-6Z,8E-eicosadienoate;12-keto-10,11,14,15-tetrahydro-Leukotriene B4"
+"12-keto-10,11,14,15-tetrahydro-LTB4",5283122,unknown,unknown,HMDB0002995,3,Q9Y271,CYSLTR1,"5S-hydroxy-12-keto-6Z,8E-eicosadienoic acid;LMFA03020004;AC1NR1KK;12-Keto-tetrahydro-leukotriene B4;5S-hydroxy-12-keto-6Z,8E-eicosadienoate;12-keto-10,11,14,15-tetrahydro-Leukotriene B4"
+"12-keto-10,11,14,15-tetrahydro-LTB4",5283122,unknown,unknown,HMDB0002995,3,Q9NPC1,LTB4R2,"5S-hydroxy-12-keto-6Z,8E-eicosadienoic acid;LMFA03020004;AC1NR1KK;12-Keto-tetrahydro-leukotriene B4;5S-hydroxy-12-keto-6Z,8E-eicosadienoate;12-keto-10,11,14,15-tetrahydro-Leukotriene B4"
+12-Oxo-LTB4,5280876,unknown,27814,HMDB0004234,3,Q15722,LTB4R,"12-Keto-LTB4;12-oxo Leukotriene B4;12-Keto-leukotriene B4;12-dehydro-leukotriene B4;12-Oxoleukotriene B4;5S-hydroxy-12-keto-6Z,8E,10E,14Z-eicosatetraenoic acid"
+12-Oxo-LTB4,5280876,unknown,27814,HMDB0004234,3,Q9Y271,CYSLTR1,"12-Keto-LTB4;12-oxo Leukotriene B4;12-Keto-leukotriene B4;12-dehydro-leukotriene B4;12-Oxoleukotriene B4;5S-hydroxy-12-keto-6Z,8E,10E,14Z-eicosatetraenoic acid"
+12-Oxo-LTB4,5280876,unknown,27814,HMDB0004234,3,Q9NPC1,LTB4R2,"12-Keto-LTB4;12-oxo Leukotriene B4;12-Keto-leukotriene B4;12-dehydro-leukotriene B4;12-Oxoleukotriene B4;5S-hydroxy-12-keto-6Z,8E,10E,14Z-eicosatetraenoic acid"
+"14,15-dehydro-LTB4",5283132,unknown,unknown,unknown,3,Q15722,LTB4R,"14,15-dehydro-Leukotriene B4;5S,12R-dihydroxy-6Z,8E,10E-eicosatriene-14-ynoic acid;AC1NR1LE;BML2-G03;ZINC5978044;LMFA03020017"
+"14,15-dehydro-LTB4",5283132,unknown,unknown,unknown,3,Q9Y271,CYSLTR1,"14,15-dehydro-Leukotriene B4;5S,12R-dihydroxy-6Z,8E,10E-eicosatriene-14-ynoic acid;AC1NR1LE;BML2-G03;ZINC5978044;LMFA03020017"
+"14,15-dehydro-LTB4",5283132,unknown,unknown,unknown,3,Q9NPC1,LTB4R2,"14,15-dehydro-Leukotriene B4;5S,12R-dihydroxy-6Z,8E,10E-eicosatriene-14-ynoic acid;AC1NR1LE;BML2-G03;ZINC5978044;LMFA03020017"
+20-carboxyleukotriene B4,5280877,1592630,27562,HMDB0006059,3,Q15722,LTB4R,"20-Carboxy-leukotriene B4;20-carboxy-LTB4;20-COOH-Leukotriene B4;20-COOH-LTB4;5,12-Dihydroxy-delta5,8,11,14-eicosapolyendioic acid;5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraene-1,20-dioic acid"
+20-carboxyleukotriene B4,5280877,1592630,27562,HMDB0006059,3,Q9Y271,CYSLTR1,"20-Carboxy-leukotriene B4;20-carboxy-LTB4;20-COOH-Leukotriene B4;20-COOH-LTB4;5,12-Dihydroxy-delta5,8,11,14-eicosapolyendioic acid;5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraene-1,20-dioic acid"
+20-carboxyleukotriene B4,5280877,1592630,27562,HMDB0006059,3,Q9NPC1,LTB4R2,"20-Carboxy-leukotriene B4;20-carboxy-LTB4;20-COOH-Leukotriene B4;20-COOH-LTB4;5,12-Dihydroxy-delta5,8,11,14-eicosapolyendioic acid;5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraene-1,20-dioic acid"
+20-hydroxy LTB4,5280745,1593789,15646,HMDB0001509,3,Q15722,LTB4R,"20-Hydroxy-leukotriene B4;20-hydroxy-LTB4;20-OH-LTB4;20-OH-Leukotriene B4;(5S,6Z,8E,10E,12R,14Z)-5,12,20-trihydroxyicosa-6,8,10,14-tetraenoic acid;5S,12R,20-trihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid"
+20-hydroxy LTB4,5280745,1593789,15646,HMDB0001509,3,Q9Y271,CYSLTR1,"20-Hydroxy-leukotriene B4;20-hydroxy-LTB4;20-OH-LTB4;20-OH-Leukotriene B4;(5S,6Z,8E,10E,12R,14Z)-5,12,20-trihydroxyicosa-6,8,10,14-tetraenoic acid;5S,12R,20-trihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid"
+20-hydroxy LTB4,5280745,1593789,15646,HMDB0001509,3,Q9NPC1,LTB4R2,"20-Hydroxy-leukotriene B4;20-hydroxy-LTB4;20-OH-LTB4;20-OH-Leukotriene B4;(5S,6Z,8E,10E,12R,14Z)-5,12,20-trihydroxyicosa-6,8,10,14-tetraenoic acid;5S,12R,20-trihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid"
+Leukotriene B4,5280492,65061,15647,unknown,3,Q15722,LTB4R,"LTB4;5,12-Dihete;5,12-Hete;UNII-1HGW4DR56D;(5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid;1HGW4DR56D"
+Leukotriene B4,5280492,65061,15647,unknown,3,Q9Y271,CYSLTR1,"LTB4;5,12-Dihete;5,12-Hete;UNII-1HGW4DR56D;(5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid;1HGW4DR56D"
+Leukotriene B4,5280492,65061,15647,unknown,3,Q9NPC1,LTB4R2,"LTB4;5,12-Dihete;5,12-Hete;UNII-1HGW4DR56D;(5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid;1HGW4DR56D"
+LTB4 dimethyl amide,5283126,unknown,unknown,HMDB0005085,3,Q15722,LTB4R,"LEUKOTRIENE B4 DIMETHYL AMIDE;Leukotriene B4 dimethylamide;N,N-dimethyl-5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraen-1-amide;LTB4-dimethylamide;AC1NR1KW;(5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxy-N,N-dimethylicosa-6,8,10,14-tetraenamide"
+LTB4 dimethyl amide,5283126,unknown,unknown,HMDB0005085,3,Q9Y271,CYSLTR1,"LEUKOTRIENE B4 DIMETHYL AMIDE;Leukotriene B4 dimethylamide;N,N-dimethyl-5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraen-1-amide;LTB4-dimethylamide;AC1NR1KW;(5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxy-N,N-dimethylicosa-6,8,10,14-tetraenamide"
+LTB4 dimethyl amide,5283126,unknown,unknown,HMDB0005085,3,Q9NPC1,LTB4R2,"LEUKOTRIENE B4 DIMETHYL AMIDE;Leukotriene B4 dimethylamide;N,N-dimethyl-5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraen-1-amide;LTB4-dimethylamide;AC1NR1KW;(5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxy-N,N-dimethylicosa-6,8,10,14-tetraenamide"
+LTB4 ethanol amide,5283127,unknown,unknown,HMDB0002304,3,Q15722,LTB4R,"Leukotriene B4 Ethanolamide;N-(2-hydroxyethyl)-5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraen-1-amide;LMFA03020012;AC1NR1KZ;Leukotriene B4 ethanol amide;1822AH"
+LTB4 ethanol amide,5283127,unknown,unknown,HMDB0002304,3,Q9Y271,CYSLTR1,"Leukotriene B4 Ethanolamide;N-(2-hydroxyethyl)-5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraen-1-amide;LMFA03020012;AC1NR1KZ;Leukotriene B4 ethanol amide;1822AH"
+LTB4 ethanol amide,5283127,unknown,unknown,HMDB0002304,3,Q9NPC1,LTB4R2,"Leukotriene B4 Ethanolamide;N-(2-hydroxyethyl)-5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraen-1-amide;LMFA03020012;AC1NR1KZ;Leukotriene B4 ethanol amide;1822AH"
+LTB4-d4,16061113,unknown,unknown,unknown,3,Q15722,LTB4R,"Leukotriene B4-d4;LMFA03020030;J-005101;5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid-d4"
+LTB4-d4,16061113,unknown,unknown,unknown,3,Q9Y271,CYSLTR1,"Leukotriene B4-d4;LMFA03020030;J-005101;5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid-d4"
+LTB4-d4,16061113,unknown,unknown,unknown,3,Q9NPC1,LTB4R2,"Leukotriene B4-d4;LMFA03020030;J-005101;5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid-d4"
+LTB5,5283125,unknown,88493,HMDB0005073,1,Q9NPC1,LTB4R2,"leukotriene B5;5,12-DiHEPE;5S,12S-dihydroxy-6Z,8E,14Z,17Z-eicosapentanenoic acid;(5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxy-6,8,10,14,17-Eicosapentaenoic acid;(5S,6Z,8E,10E,12R,14Z,17Z)-5,12-dihydroxyicosa-6,8,10,14,17-pentaenoic acid;AC1NR1KT"
+Leukotriene C4,5280493,451509,16978,unknown,2,Q9NS75,CYSLTR2,"LTC4;Leukotriene C;LTC (sub 4);5S,6R-Ltc(sub 4);UNII-2CU6TT9V48;2CU6TT9V48"
+Leukotriene C4,5280493,451509,16978,unknown,2,Q9Y271,CYSLTR1,"LTC4;Leukotriene C;LTC (sub 4);5S,6R-Ltc(sub 4);UNII-2CU6TT9V48;2CU6TT9V48"
+Leukotriene D4,5280878,288943,28666,HMDB0003080,2,Q9NS75,CYSLTR2,"LTD4;Leukotriene D;UNII-5FNY4416UE;5S-hydroxy-6R-(S-cysteinylglycinyl)-7E,9E,11E,14Z-eicosatetraenoic acid;5FNY4416UE;Leukotriene D(sub 4)"
+Leukotriene D4,5280878,288943,28666,HMDB0003080,2,Q9Y271,CYSLTR1,"LTD4;Leukotriene D;UNII-5FNY4416UE;5S-hydroxy-6R-(S-cysteinylglycinyl)-7E,9E,11E,14Z-eicosatetraenoic acid;5FNY4416UE;Leukotriene D(sub 4)"
+Leukotriene E4,5280879,509456,15650,HMDB0002200,2,Q9NS75,CYSLTR2,"LTE4;Leukotriene E;UNII-8EYT8ATL7G;8EYT8ATL7G;OTZRAYGBFWZKMX-FRFVZSDQSA-N;5S-hydroxy,6R-(S-cysteinyl),7E,9E,11Z,14Z-eicosatetraenoic acid"
+Leukotriene E4,5280879,509456,15650,HMDB0002200,2,Q9Y271,CYSLTR1,"LTE4;Leukotriene E;UNII-8EYT8ATL7G;8EYT8ATL7G;OTZRAYGBFWZKMX-FRFVZSDQSA-N;5S-hydroxy,6R-(S-cysteinyl),7E,9E,11Z,14Z-eicosatetraenoic acid"
+Lipoxin A4,5280914,392438,6498,HMDB0004385,2,Q9Y271,CYSLTR1,"LXA4;5S,6R-LipoxinA4;5S,6R,15S-trihydroxy-7E,9E,11Z,13E-Eicosatetraenoic acid;(5S,6R,7E,9E,11Z,13E,15S)-5,6,15-trihydroxyicosa-7,9,11,13-tetraenoic acid;(7E,9E,11Z,13E)-(5S,6R,15S)-5,6,15-Trihydroxyicosa-7,9,11,13-tetraenoic acid;(5S,6R,15S)-Trihydroxy-(7E,9E,11Z,13E)-Eicosatetraenoic acid"
+Lipoxin A4,5280914,392438,6498,HMDB0004385,2,P25090,FPR2,"LXA4;5S,6R-LipoxinA4;5S,6R,15S-trihydroxy-7E,9E,11Z,13E-Eicosatetraenoic acid;(5S,6R,7E,9E,11Z,13E,15S)-5,6,15-trihydroxyicosa-7,9,11,13-tetraenoic acid;(7E,9E,11Z,13E)-(5S,6R,15S)-5,6,15-Trihydroxyicosa-7,9,11,13-tetraenoic acid;(5S,6R,15S)-Trihydroxy-(7E,9E,11Z,13E)-Eicosatetraenoic acid"
+LipoxinB4,5280915,unknown,6499,HMDB0005082,1,Q9Y271,CYSLTR1,"lipoxin B4;LXB4;5S,14R,15S-trihydroxy-6E,8Z,10E,12E-Eicosatetraenoic acid;(5S,6E,8Z,10E,12E,14R,15S)-5,14,15-trihydroxyicosa-6,8,10,12-tetraenoic acid;5(S),14(R)-lipoxin B4;(6E,8Z,10E,12E)-(5S,14R,15S)-Trihydroxyicosa-6,8,10,12-tetraenoic acid"
+Prostacyclin,5282411,1139,15552,unknown,1,P43119,PTGIR,Vasocyclin;prostaglandin I2;Prostaglandin X;PGI2;Prostacyclin I2;Prostaglandin 12
+15-Deoxy-PGJ2,5311211,482477,34159,HMDB0005079,1,P37231,PPARG,"15d-PGJ2;15-Deoxy-delta-12,14-prostaglandin J2;15-deoxy-delta12,14-prostaglandin J2;15-deoxy-delta-12,14-PGJ2;delta12,14-PGJ 2;UNII-ALI977775J"
+Prostaglandin D2,448457,1235252,15555,HMDB0001403,1,Q13258,PTGDR,PGD2;11-Dehydroprostaglandin F2-alpha;BRN 2170623;UNII-RXY07S6CZ2;11-Dehydroprostaglandin F2alpha;RXY07S6CZ2
+Prostaglandin E1,5280723,495,15544,HMDB0001442,5,P34995,PTGER1,PGE1;Caverject;Edex;Muse;Prostin VR;Alprostadilum
+Prostaglandin E1,5280723,495,15544,HMDB0001442,5,P43116,PTGER2,PGE1;Caverject;Edex;Muse;Prostin VR;Alprostadilum
+Prostaglandin E1,5280723,495,15544,HMDB0001442,5,P43115,PTGER3,PGE1;Caverject;Edex;Muse;Prostin VR;Alprostadilum
+Prostaglandin E1,5280723,495,15544,HMDB0001442,5,P35408,PTGER4,PGE1;Caverject;Edex;Muse;Prostin VR;Alprostadilum
+Prostaglandin E1,5280723,495,15544,HMDB0001442,5,P43119,PTGIR,PGE1;Caverject;Edex;Muse;Prostin VR;Alprostadilum
+Prostaglandin E2,5280360,548,15551,HMDB0001220,4,P34995,PTGER1,Dinoprostone;PGE2;Prostin E2;Prepidil;Cervidil;Propess
+Prostaglandin E2,5280360,548,15551,HMDB0001220,4,P43116,PTGER2,Dinoprostone;PGE2;Prostin E2;Prepidil;Cervidil;Propess
+Prostaglandin E2,5280360,548,15551,HMDB0001220,4,P43115,PTGER3,Dinoprostone;PGE2;Prostin E2;Prepidil;Cervidil;Propess
+Prostaglandin E2,5280360,548,15551,HMDB0001220,4,P35408,PTGER4,Dinoprostone;PGE2;Prostin E2;Prepidil;Cervidil;Propess
+prostaglandin F2alpha,5280363,815,15553,unknown,1,P43088,PTGFR,PGF2alpha;Prostaglandin F2a;Enzaprost;Cerviprost;Enzaprost F;l-PGF2-alpha
+Thromboxane A2,5280497,unknown,15627,HMDB0001452,1,P21731,TBXA2R,"TXA2;TXA-2;Rabbit aorta contracting substance;UNII-4C2A5G825S;9S,11S-epoxy,15S-hydroxy-thromboxa-5Z,13E-dien-1-oic acid;4C2A5G825S"
+Cholesterol,5997,112570,16113,HMDB0000067,1,P35398,RORA,Cholesterin;Cholesteryl alcohol;Cholest-5-en-3beta-ol;Cholestrin;Cordulan;Dusoline
+Calcitriol,5280453,846,17823,HMDB0001903,1,P11473,VDR,"Rocaltrol;Calcijex;Topitriol;1alpha,25-Dihydroxyvitamin D3;Silkis;Soltriol"

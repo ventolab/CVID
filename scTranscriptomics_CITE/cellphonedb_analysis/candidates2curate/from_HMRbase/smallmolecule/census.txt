@@ -1,0 +1,231 @@
+Hormone_ChEBI	Hormone
+52392	2-arachidonylglycerol
+28952	5-alpha-Dihydroprogesterone
+17252	17-alpha-Hydroxyprogesterone
+5812	17-alpha-hydroxy-progesterone caproate
+16485	18-hydroxycorticosterone
+28453	20-alpha-Dihydroprogesterone
+31184	Alclometasone dipropionate
+27584	Aldosterone
+763	Algestone
+31189	Allylestrenol
+16330	Dihydrotestosterone
+2710	Androstenediol
+16422	Androstenedione
+16032	Androsterone
+3001	Beclomethasone
+3002	Beclomethasone dipropionate
+3077	Betamethasone
+31277	Betamethasone 17-Valerate
+68603	betamethasone sodium phosphate
+17574	biochanin A
+33216	bisphenol A
+3641	Chlorotrianisene
+205919	Clobetasol
+31414	Clobetasol propionate
+31415	Clobetasone butyrate
+28324	Cortodoxone
+16827	Corticosterone
+16962	Cortisone
+3908	Coumestrol
+28197	Daidzein
+28689	Dehydroepiandrosterone
+34584	Dehydrotestosterone
+4453	Desogestrel
+691037	Desoximetasone
+34671	Desoxycorticosterone acetate
+16973	Desoxycorticosterone
+41879	Dexamethasone
+16814	DHEA sulfate
+4518	Dienestrol
+41922	Diethylstilbestrol
+31483	Diflorasone diacetate
+34703	Diflubenzuron
+31527	Dydrogesterone
+16688	alpha-Ecdysone
+16587	Ecdysterone
+81556	Enterodiol
+17160	Epiestradiol
+34738	Epimestrol
+91940	Equilin
+34741	Equol
+142773	Estetrol
+16469	Estradiol
+27974	Estriol
+17263	Estrone
+4903	Ethinyl Estradiol
+31578	Ethylestrenol
+28195	Etiocholanolone
+34764	Flumethasone
+31623	Fluocinolone Acetonide
+5109	Fluocinonide
+135581	Fluocortolone
+31625	Fluorometholone
+5120	Fluoxymesterone
+34474	Fluprednisolone
+5127	Flurandrenolone
+18088	Formononetin
+28088	Genistein
+135323	Gestodene
+89642	Gestrinone
+34778	Glycitein
+31669	Hexestrol
+17650	Hydrocortisone
+18258	Triiodothyronine
+16796	Melatonin
+34831	Melengestrol Acetate
+135293	Mesterolone
+6784	Mestranol
+34834	Methandriol
+6810	Methandrostenolone
+34839	Methoprene
+6888	Methylprednisolone
+135765	Methylprednisolone Hemisuccinate
+27436	Methyltestosterone
+7466	Nandrolone
+7467	Nandrolone decanoate
+135282	Norethandrolone
+7820	Oxandrolone
+7922	Paramethasone
+135791	Prednicarbate
+8378	Prednisolone
+8382	Prednisone
+34464	Pregnanetriol
+16581	Pregnenolone
+17026	Progestrone
+8716	Quinestrol
+28774	Reverse T3
+65004	Secoisolariciresinol
+9249	Stanozolol
+17347	Testosterone
+9466	Testosterone Propionate
+18332	L-thyroxine
+35018	Trenbolone
+9667	Triamcinolone
+71418	Triamcinolone Acetonide
+28320	Urocortisol
+9901	Urocortisone
+35064	Zeranol
+36799	Campestanol
+89524	Epietiocholanolone
+17762	5alpha-Cholestan-3-one
+143743	Cholestanol
+CHEBI:16175	Cholest-4-en-3-one
+CHEBI:16290	5alpha-Cholesta-7,24-dien-3beta-ol
+3898	Cortol
+27576	19-hydroxy-4-androstene-3,17-dione
+67237	22-hydroxycholesterol
+8403	previtamin D(3)
+1189	2-methoxyestrone
+9481	Tetrahydrocorticosterone
+771	16alpha-hydroxypregnenolone
+125457	Epiestriol
+27771	16-hydroxydehydroepiandrosterone
+42156	17-Epiestriol
+27832	17, 21-dihydroxypregnenolone
+27727	Androstane-3,17-diol
+28955	2-methoxyestradiol
+89454	17-hydroxypregnenolone sulfate
+18329	3beta androstanediol
+42534	Epitestosterone
+41321	Cholesteryl sulfate
+35420	Pregnenolone sulfate
+CHEBI:50593	4alpha-methyl-5alpha-cholesta-8,24-dien-3-one
+18204	16-dehydroprogesterone
+17813	4,4-dimethylcholesta-8,14,24-trienol
+CHEBI:52615	4alpha-formyl-5alpha-cholesta-8,24-dien-3beta-ol
+1949	4alpha-Methylzymosterol
+CHEBI:16455	4,4-Dimethyl-5alpha-cholest-7-en-3beta-ol
+86319	25-Hydroxyvitamin D2
+16229	Epipregnanolone
+17899	7 alpha-hydroxy-4-cholesten-3-one
+83037	Androsterone sulfate
+3899	Cortolone
+10041	Withanolide D
+28082	Cholestane-3,5,6-triol
+42989	Cholest-5-en-3 beta,7 alpha-diol
+42977	25-hydroxycholesterol
+34477	6 beta-hydroxytestosterone
+18431	Cholest-5-ene-3,7,27-triol
+3168	Brassicasterol
+CHEBI:776	16alpha-Hydroxyestrone
+1156	2-hydroxyestrone
+541975	Epiandrosterone
+34166	16-ketoestrone
+34165	16-ketoestradiol
+28790	Serotonin
+36714	5-Androstane-3alpha,17beta-diol
+28918	Epinephrine
+89519	Cholestanol
+16933	Ergosterol
+17168	Lathosterol
+16521	Lanosterol
+16496	3,7,12-trihydroxycoprostane
+5062	Finasteride
+89982	Cholesta-5,8-dien-3 beta-ol
+40799	1,4-androstadiene-3,17-dione
+16466	3,7,12-trihydroxycholestan-26-al
+16985	5beta-Androstane-3,17-dione
+27910	Cholesta-5,7,24-trien-3 beta-ol
+81471	7-hydroxydehydroepiandrosterone
+34386	4-Androstenediol
+34903	Oxymesterone
+34135	11-ketoetiocholanolone
+47799	Calcitetrol
+18252	zymosterol
+16608	zymostenol
+17759	7-dehydrocholesterol
+28744	2-hydroxyestradiol
+16076	11alpha-Hydroxyprogesterone
+18357	Norepinephrine
+82751	Cholesteryl arachidonate
+142698	22:4 Cholesteryl ester
+74102	22:6 Cholesteryl ester
+84346	20:3 Cholesteryl ester
+89627	Allotetrahydrocortisol
+36259	Taurolithocholic Acid
+28824	Stigmasterol
+78242	Cholesterol acetate
+135456	Formyldienolone
+34583	Bolasterone
+84304	Cholesteryl myristate
+84352	Cholesteryl behenate
+84969	20:5 Cholesteryl ester
+64294	7-ketocholesterol
+46898	Cholesteryl oleate
+52449	5-Oxoete
+17703	Cholest-5-ene-3 beta,26-diol
+84094	Testosterone-17-sulfate
+9464	Testosterone enanthate
+28818	24,25-Dihydroxyvitamin D3
+34310	24-Hydroxycholesterol
+50169	Allopregnanolone
+18145	Alpha-Tocopherol
+17737	Desmosterol
+89029	Cholesteryl decanoate
+CHEBI:75308	19-Oxotestosterone
+CHEBI:78600	11-Dehydrocorticosterone
+135356	Calusterone
+15632	5S-HpETE
+63981	6-trans-LTB4
+72795	12-epi-LTB4
+27814	12-Oxo-LTB4
+27562	20-carboxyleukotriene B4
+15646	20-hydroxy LTB4
+15647	Leukotriene B4
+88493	LTB5
+16978	Leukotriene C4
+28666	Leukotriene D4
+15650	Leukotriene E4
+6498	Lipoxin A4
+6499	LipoxinB4
+34306	20-Hete
+15552	Prostacyclin
+34159	15-Deoxy-PGJ2
+15555	Prostaglandin D2
+15544	Prostaglandin E1
+15551	Prostaglandin E2
+15553	prostaglandin F2alpha
+15627	Thromboxane A2
+16113	Cholesterol
+17823	Calcitriol
