@@ -71,8 +71,11 @@ loaded via a namespace (and not attached):
 ```
 
 Instructions for installing additional packages are specified within each relevant analysis notebook/script.
+
 The time required for creating the environment and installing all packages on a "normal" desktop comuter should take less than 15 minutes for python and less than 30 minutes.
+
 As a demonstration notebook, please see the [M2-1 notebook](https://github.com/ventolab/CVID/blob/master/scTranscriptomics_CITE/M2-1-new_no_doublets_analysis_with_SoupX_denoised_protein.ipynb) showing analysis of the CITE-seq data.
+
 The code is thoroughly commented in order to bring clarity for users while executing it.
 
 Please do not hesitate to reach out if you have any questions by opening an issue.
