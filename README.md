@@ -27,6 +27,7 @@ For figures with dotplots (and statistical significance) please download ```.pdf
 
 All the analysis in the current repository is performed in a [conda](https://docs.conda.io/en/latest/) python environment with the following basic configuration:
 
+```
 scanpy==1.4.4.post1 
 anndata==0.6.22.post1 
 umap==0.3.10 
@@ -37,7 +38,7 @@ scikit-learn==0.21.3
 statsmodels==0.10.1 
 python-igraph==0.7.1 
 louvain==0.6.1
-
+```
 
 Scripts in R are run in the environment with the following basic configuration:
 
