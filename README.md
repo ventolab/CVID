@@ -22,6 +22,9 @@ General lingo:
 
 For figures with dotplots (and statistical significance) please download ```.pdf```s to view at correct scale.
 
+____________________________________________________________________________________________________________________________________________________________________
+**Please visit our portal https://www.cvidcellatlas.org/ for interactive visualisation of the single cell objects and all corresponding data (available for download)**
+____________________________________________________________________________________________________________________________________________________________________
 
 **System requirements and installs**
 
